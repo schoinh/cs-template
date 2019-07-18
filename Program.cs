@@ -1,8 +1,9 @@
 using System;
+using NAMESPACE;
 
-class ProjectName
+class Program
 {
-  static void Main()
+  private static void Main()
   {
     
   }
