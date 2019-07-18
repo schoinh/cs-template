@@ -3,8 +3,8 @@ using NAMESPACE;
 
 class Program
 {
-  private static void Main()
-  {
-    
-  }
+    private static void Main()
+    {
+
+    }
 }
