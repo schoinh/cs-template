@@ -1,6 +1,6 @@
 using System;
 
-namesapce ProjectName.Models
+namespace ProjectName.Models
 {
     
 }
